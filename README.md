@@ -6,5 +6,5 @@ part.  Any changes to the base will modify all the others.
 
 ![render](images/render1.jpg)
 
-* You can view a [3d PDF](all-the-parts ([Primary]).pdf)
+* You can view a [3d PDF](all-the-parts-3d.pdf)
 * or a boring old [2d PDF](all-the-parts-2d.pdf)
